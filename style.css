@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(black, #001a1a);
+    color: #00ff99;
+    font-family: Arial;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.container {
+    width: 420px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #00ff99;
+    border-radius: 12px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 5px;
+    background-color: #00ff99;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#recommendations {
+    margin-top: 10px;
+    color: #ffffff;
+    font-weight: bold;
+}
